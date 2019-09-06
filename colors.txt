@@ -1,0 +1,12 @@
+ red
+ orange
+ yellow
+ red
+ orange
+ yellow
+ red
+ orange
+ yellow
+ blue
+ green
+ purple

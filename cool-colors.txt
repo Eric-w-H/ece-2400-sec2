@@ -1,3 +1,6 @@
-blue
-green
-purple
+#ifndef COOL_COLORS_TXT
+#define COOL_COLORS_TXT
+ blue
+ green
+ purple
+#endif
